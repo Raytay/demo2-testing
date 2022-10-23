@@ -4,4 +4,5 @@ Pizza
 
 Anchovy, mushroom, veggie, cheese, cheese and tomato.
 
+No salami or eggplant or tofu. 
 Finally made the changes.
